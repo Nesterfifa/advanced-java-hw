@@ -1,2 +1,2 @@
 # advanced-java-hw
-Some homeworks from java course in ITMO
+Some homeworks from Java course in ITMO
